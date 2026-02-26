@@ -16,10 +16,10 @@
 
 The Python Programming MOOC 2026 is a free online course from the **Department of Computer Science at the University of Helsinki**. It is divided into two tracks:
 
-| Track | Parts | Credits |
-|---|---|---|
-| Introduction to Programming (BSCS1001) | Parts 1 – 7 | 5 ECTS |
-| Advanced Course in Programming (BSCS1002) | Parts 8 – 14 | 5 ECTS |
+| Track | Parts |
+|---|---|
+| Introduction to Programming (BSCS1001) | Parts 1 – 7 |
+| Advanced Course in Programming (BSCS1002) | Parts 8 – 14 |
 
 The course runs throughout the year 2026 and covers Python from the very basics up to advanced programming concepts.
 
@@ -58,27 +58,27 @@ Note: Some of the exercise text may be in my native language, Brazilian Portugue
 
 ### Introduction to Programming
 
-| Part | Topic | Status | Exercises | Completed |
-|------|-------|--------|-----------|-----------|
-| Part 1 | Getting started | 🔄 In Progress | 5 / 33 | — |
-| Part 2 | Variables and conditionals | ⏳ Not started | 0 / 23 | — |
-| Part 3 | Loops | ⏳ Not started | 0 / 35 | — |
-| Part 4 | Functions | ⏳ Not started | 0 / 39 | — |
-| Part 5 | Lists | ⏳ Not started | 0 / 28 | — |
-| Part 6 | Files and error handling | ⏳ Not started | 0 / 20 | — |
-| Part 7 | Data structures | ⏳ Not started | 0 / 20 | — |
+| Part | Topic | Status | Exercises |
+|------|-------|--------|-----------|
+| Part 1 | Getting started | 🔄 In Progress | 5 / 33 |
+| Part 2 | Variables and conditionals | ⏳ Not started | 0 / 23 |
+| Part 3 | Loops | ⏳ Not started | 0 / 35 |
+| Part 4 | Functions | ⏳ Not started | 0 / 39 |
+| Part 5 | Lists | ⏳ Not started | 0 / 28 |
+| Part 6 | Files and error handling | ⏳ Not started | 0 / 20 |
+| Part 7 | Data structures | ⏳ Not started | 0 / 20 |
 
 ### Advanced Course in Programming
 
-| Part | Topic | Status | Exercises | Completed |
-|------|-------|--------|-----------|-----------|
-| Part 8  | Classes and objects | ⏳ Not started | 0 / 40 | — |
-| Part 9  | Objects and references | ⏳ Not started | 0 / 40 | — |
-| Part 10 | Class hierarchies | ⏳ Not started | 0 / 40 | — |
-| Part 11 | List comprehensions | ⏳ Not started | 0 / 40 | — |
-| Part 12 | Functional programming | ⏳ Not started | 0 / 40 | — |
-| Part 13 | Pygame and GUI | ⏳ Not started | 0 / 40 | — |
-| Part 14 | Final project | ⏳ Not started | — | — |
+| Part | Topic | Status | Exercises |
+|------|-------|--------|-----------|
+| Part 8  | Classes and objects | ⏳ Not started | 0 / 40 |
+| Part 9  | Objects and references | ⏳ Not started | 0 / 40 |
+| Part 10 | Class hierarchies | ⏳ Not started | 0 / 40 |
+| Part 11 | List comprehensions | ⏳ Not started | 0 / 40 |
+| Part 12 | Functional programming | ⏳ Not started | 0 / 40 |
+| Part 13 | Pygame and GUI | ⏳ Not started | 0 / 40 |
+| Part 14 | Final project | ⏳ Not started | — |
 
 **Legend:** ✅ Completed &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ⏳ Not Started
 
