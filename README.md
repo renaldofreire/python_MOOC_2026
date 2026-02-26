@@ -8,18 +8,18 @@
 
 > 📚 Personal learning journal for the **Python Programming MOOC 2026** offered by the University of Helsinki. This repository tracks my progress, exercises, and notes across all 14 parts of the course.
 
-🔗 **Course link:** [programming-26.mooc.fi](https://programming-26.mooc.fi/)
+**Course link:** [programming-26.mooc.fi](https://programming-26.mooc.fi/)
 
 ---
 
-## 📖 About the Course
+## About the Course
 
 The Python Programming MOOC 2026 is a free online course from the **Department of Computer Science at the University of Helsinki**. It is divided into two tracks:
 
 | Track | Parts | Credits |
 |---|---|---|
-| 🟢 Introduction to Programming (BSCS1001) | Parts 1 – 7 | 5 ECTS |
-| 🔵 Advanced Course in Programming (BSCS1002) | Parts 8 – 14 | 5 ECTS |
+| Introduction to Programming (BSCS1001) | Parts 1 – 7 | 5 ECTS |
+| Advanced Course in Programming (BSCS1002) | Parts 8 – 14 | 5 ECTS |
 
 The course runs throughout the year 2026 and covers Python from the very basics up to advanced programming concepts.
 
@@ -56,7 +56,7 @@ Note: Some of the exercise text may be in my native language, Brazilian Portugue
 
 ## 📊 Progress Tracker
 
-### 🟢 Introduction to Programming
+### Introduction to Programming
 
 | Part | Topic | Status | Exercises | Completed |
 |------|-------|--------|-----------|-----------|
@@ -68,7 +68,7 @@ Note: Some of the exercise text may be in my native language, Brazilian Portugue
 | Part 6 | Files and error handling | ⏳ Not started | 0 / 20 | — |
 | Part 7 | Data structures | ⏳ Not started | 0 / 20 | — |
 
-### 🔵 Advanced Course in Programming
+### Advanced Course in Programming
 
 | Part | Topic | Status | Exercises | Completed |
 |------|-------|--------|-----------|-----------|
@@ -132,7 +132,6 @@ _Coming soon..._
 
 - 📘 [Course Website](https://programming-26.mooc.fi/)
 - 💬 [Course Discord](https://study.cs.helsinki.fi/discord/join/ohjelmoinnin_mooc)
-- 📧 Course email: ohjelmoinnin-mooc@helsinki.fi
 - 🐍 [Official Python Docs](https://docs.python.org/3/)
 - 🎓 [University of Helsinki](https://www.helsinki.fi/en)
 
