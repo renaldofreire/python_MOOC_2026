@@ -60,7 +60,7 @@ Note: Some of the exercise text may be in my native language, Brazilian Portugue
 
 | Part | Topic | Status | Exercises |
 |------|-------|--------|-----------|
-| Part 1 | Getting started | 🔄 In Progress | 5 / 33 |
+| Part 1 | Getting started | 🔄 In Progress | 10 / 33 |
 | Part 2 | Variables and conditionals | ⏳ Not started | 0 / 23 |
 | Part 3 | Loops | ⏳ Not started | 0 / 35 |
 | Part 4 | Functions | ⏳ Not started | 0 / 39 |
